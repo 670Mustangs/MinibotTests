@@ -1,1 +1,2 @@
 # MinibotTests
+yes
